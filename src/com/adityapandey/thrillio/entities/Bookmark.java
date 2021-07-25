@@ -1,6 +1,6 @@
 package com.adityapandey.thrillio.entities;
 
-import com.adityapandey.thillio.constants.KidFriendlyStatus;
+import com.adityapandey.thrillio.constants.KidFriendlyStatus;
 
 public abstract class Bookmark {
 	private long id;

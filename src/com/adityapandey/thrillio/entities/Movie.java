@@ -2,7 +2,7 @@ package com.adityapandey.thrillio.entities;
 
 import java.util.Arrays;
 
-import com.adityapandey.thillio.constants.MovieGenre;
+import com.adityapandey.thrillio.constants.MovieGenre;
 
 public class Movie extends Bookmark {
 	private int releaseYear;

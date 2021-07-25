@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import com.adityapandey.thillio.manager.BookmarkManager;
+import com.adityapandey.thrillio.manager.BookmarkManager;
 
 class WebLinkTest {
 

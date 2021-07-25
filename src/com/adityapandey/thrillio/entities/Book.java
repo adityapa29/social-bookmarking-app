@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.adityapandey.thillio.constants.BookGenre;
+import com.adityapandey.thrillio.constants.BookGenre;
 import com.adityapandey.thrillio.partner.Shareable;
 
 public class Book extends Bookmark implements Shareable {

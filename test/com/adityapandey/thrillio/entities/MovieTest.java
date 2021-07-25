@@ -4,8 +4,8 @@ import static org.junit.Assert.assertFalse;
 
 import org.junit.jupiter.api.Test;
 
-import com.adityapandey.thillio.constants.MovieGenre;
-import com.adityapandey.thillio.manager.BookmarkManager;
+import com.adityapandey.thrillio.constants.MovieGenre;
+import com.adityapandey.thrillio.manager.BookmarkManager;
 
 class MovieTest {
 
